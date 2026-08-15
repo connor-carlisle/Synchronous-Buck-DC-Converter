@@ -1,0 +1,27 @@
+# ---- Altium Designer generated / temporary files ----
+History/
+__Previews/
+Project Logs for*/
+Project Outputs for*/
+*.PrjPcbStructure
+*.~*
+*.bak
+
+# ---- Altium output files (regenerate from source; keep repo small) ----
+# Comment these out if you WANT to version your fab outputs.
+Generated/
+*.Report.Txt
+*.DRC
+*.REP
+
+# ---- OS / editor cruft ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# ---- What you DO want to keep (not ignored) ----
+# .PrjPcb, .SchDoc, .PcbDoc  -> your actual source files
+# .SchLib, .PcbLib           -> your libraries
+# README.md, /docs, /images  -> documentation
+# Final fabrication package   -> if you choose to commit it

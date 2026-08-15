@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator= |SchDesignator= |FileName=Input_Protection.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Input_Protection.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator= |SchDesignator= |FileName=Power_Stage.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power_Stage.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator= |SchDesignator= |FileName=Controller.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
