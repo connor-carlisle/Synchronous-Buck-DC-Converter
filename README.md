@@ -4,7 +4,7 @@ A 3A, 500 kHz synchronous buck DC-DC converter designed from scratch in Altium D
 
 **Designer:** Connor Carlisle · **Date:** 2026-08-15 · **Rev:** A · **Tools:** Altium Designer
 
-![Top-layer layout](images/Buck_DCDC_3DLayout.jpg)
+![Top-layer layout](images/Buck-DCDC-3DLayout.jpg)
 
 ---
 
