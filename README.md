@@ -97,8 +97,10 @@ Each fix was made on the schematic and re-imported, never patched on the PCB —
 - [x] Compensation design and validation
 - [x] PCB layout, routing, and pours
 - [x] Design-rule verification clean
-- [ ] Fabrication and assembly
-- [ ] Bring-up and bench validation
+- [x] Fabrication and assembly (prototype built)
+- [ ] Bring-up and bench validation: efficiency, output ripple, load-step response
+
+*Developed with AI assistance (Claude); design decisions and verification are my own.*
 
 ---
 
